@@ -1,4 +1,58 @@
 # tools / extension
+
+Tools - Bug Bounty Hunting
+
+•Amass
+•aquatone
+•Asnlookup
+•bfac
+•changeme
+•CMSmap
+•CORStest
+•crtndstry
+•datasploit
+•dirsearch
+•dnscan
+•dvcs-ripper
+•EyeWitness
+•Findsploit
+•getsploit
+•gitrob
+•git-secrets
+•GitTools
+•GoogD0rker
+•ground-control
+•HostileSubBruteforcer
+•JSParser
+•jwt_tool
+•knockpy
+•lazyrecon
+•lazys3
+•LFISuite
+•masscan
+•massdns
+•Mobile-Security-Framework-MobSF
+•oxml_xxe
+•patator
+•Photon
+•phpggc
+•race-the-web
+•recon_profile
+•retire.js
+•SecLists
+•Sn1per
+•ssrfDetector
+•Sublist3r
+•teh_s3_bucketeers
+•thc-hydra
+•tko-subs
+•UPI INT
+•virtual-host-discovery
+•wfuzz
+•wpscan
+•xray
+•XXEinjector
+•ysoserial
 مهمترین ابزارهای تست نفوذ
 
 Network forensic tools: 
