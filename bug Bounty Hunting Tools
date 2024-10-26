@@ -1,0 +1,70 @@
+🚨 Bug Bounty Hunting Tools 🚨 
+Here's the comprehensive list of bug bounty hunting tools. 
+
+## 1. Reconnaissance
+🔍 Subdomain Enumeration  
+- Amass - In-depth subdomain and asset discovery  
+- Sublist3r - Subdomain enumeration using multiple sources  
+- Assetfinder - Finds assets related to a domain  
+- Subfinder - Fast subdomain discovery tool  
+- Chaos - Subdomains from Project Discovery’s dataset  
+- Findomain - Cross-platform subdomain finder  
+
+🌐 DNS and IP Discovery  
+- dnsx - Fast and flexible DNS toolkit  
+- massdns - High-performance DNS stub resolver  
+- http://crt.sh - Certificate transparency logs search  
+- Recon-ng - Modular web reconnaissance framework  
+
+🛠️ Port Scanning  
+- Nmap - Network discovery and port scanning  
+- Masscan - Fast TCP port scanner  
+- RustScan - High-speed scanning tool using Rust  
+
+🔌 Service Identification  
+- WhatWeb - Web technology fingerprinting  
+- Wappalyzer - Technology stack detection  
+
+## 2. Vulnerability Scanning
+🔎 Web Vulnerability Scanners  
+- OWASP ZAP - Open-source web application security scanner  
+- Burp Suite - Integrated platform for web app security testing (free and pro versions)  
+- Nikto - Open-source web server scanner  
+
+🧪 Static Application Security Testing (SAST)  
+- SonarQube - Code quality and security analysis  
+- Checkmarx - Static code analysis solution  
+
+🔍 Dynamic Application Security Testing (DAST)  
+- Netsparker - Automated DAST tool  
+- Acunetix - Automated web application security scanner  
+
+## 3. Exploitation
+💥 Exploitation Frameworks  
+- Metasploit - Comprehensive exploitation framework  
+- BeEF - Browser exploitation framework  
+
+⚙️ Command Injection & RCE  
+- SQLMap - Automated SQL injection and database takeover tool  
+- XSSer - Automated XSS vulnerability exploitation tool  
+- Commix - Automated command injection and exploitation tool  
+
+## 4. Post-Exploitation
+📊 Data Extraction  
+- Mimikatz - Password extraction and credential dumping tool  
+- Nishang - PowerShell-based attack framework  
+
+## 5. Reporting and Collaboration
+📝 Reporting Tools  
+- Dradis - Collaboration and reporting framework for security assessments  
+- Faraday - Collaborative pentesting platform  
+- Pentest Report Generator - Template-based report generation tool  
+
+## 6. Miscellaneous Tools
+⚙️ Fuzzing Tools  
+- Burp Suite Intruder - Fuzzing functionality within Burp Suite  
+- wfuzz - Web application fuzzer  
+
+🔑 Credential Stuffing  
+- Hashcat - Password recovery tool  
+- John the Ripper - Password cracking software
